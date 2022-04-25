@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, #000000, #2c091c, #4d003b, #670067, #71009f, #6539c2, #4c5ae2, #0077ff, #00a0ff, #00c2ff, #00e0ff, #04fbfb);
+    font-size: x-large;
+    color: #15ff00;
+    margin-top:30px;
+}
+#show_sketch{
+    float:right;
+    margin-right: 40px;
+}
+h1{
+    margin-left: 150px;
+}
+
+#span1{
+    float:left;
+    margin-left: 60px;
+    color:#04fbfb
+}
+
+#timer{
+    float:right;
+    margin-right: 100px;
+    color:#fb4204
+}
